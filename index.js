@@ -1,5 +1,5 @@
 const https = require('https');
-const _api_Key = '<OpenAI API Key>';
+const _api_Key = '';
 const data = JSON.stringify({
     "input": "A long.",
     "model": "text-embedding-ada-002",
